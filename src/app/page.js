@@ -10,6 +10,9 @@ export default function Home() {
         <li>
           useContext Hook - <a href="/useContext">/useContext</a>
         </li>
+        <li>
+          useCallback Hook - <a href="/useCallback">/useCallback</a>
+        </li>
       </ul>
     </div>
   );

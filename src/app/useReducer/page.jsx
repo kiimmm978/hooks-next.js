@@ -108,7 +108,6 @@ const page = () => {
            </div>
       </div>
 
-
        <div style={{marginBottom:"150px"}}>
         <div className='flex justify-center'> <h1 style={{fontSize:"40px"}}>Object Data Setter with useReducer</h1></div>
            <div className='flex justify-center'><strong style={{fontSize:"33px"}}>Name: {data.name}</strong> </div>
